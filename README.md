@@ -3,5 +3,5 @@ This application serves as a digital showroom for car enthusiasts, offering deta
 <br>
 Authors - NIKITA JABRELA<br>
         - DEV KAPADIA <br>
-        - DRUVI<br>
+        - DRUVE SHEKHADA<br>
         - HEET SONANI
